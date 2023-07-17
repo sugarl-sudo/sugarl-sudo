@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugarl-sudo&show_icons=true&locale=en&layout=compact" alt="sugarl-sudo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugarl-sudo&show_icons=true&locale=en" alt="sugarl-sudo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugarl-sudo&hide=jupyter%20notebook&show_icons=true&locale=en" alt="sugarl-sudo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugarl-sudo&hide=jupyter%20notebook" alt="sugarl-sudo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugarl-sudo&" alt="sugarl-sudo" /></p>
