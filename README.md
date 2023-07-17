@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,git,github,aws,docker,vscode)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=sugarl-sudo)
