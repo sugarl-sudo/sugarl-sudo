@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugarl-sudo&show_icons=true&locale=en" alt="sugarl-sudo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugarl-sudo&" alt="sugarl-sudo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugarl-sudo&hide=jupyter%20notebook" alt="sugarl-sudo" /></p>
