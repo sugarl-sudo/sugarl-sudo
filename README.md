@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=python, git, aws, docker, vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python, git, aws)](https://skillicons.dev)
