@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sugarl-sudo</h1>
-<h3 align="center">University students researching deep learning from Japan</h3>
+<h3 align="center">University student researching deep learning in Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugarl-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="sugarl-sudo" /> </p>
 
