@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sugarl-sudo" alt="sugarl-sudo" /></a> </p>
 
-- 🌱 I’m currently learning **Fast API,**
+- 🌱 I’m currently learning ??,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
